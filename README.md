@@ -1,4 +1,4 @@
-# mongodb-dotnet-quick-start
+# MongoDB / .NET Quick Start
 
 This is a very basic .NET Core console application that connects to a local MongoDB server, retrieves data, and displays it.
 
